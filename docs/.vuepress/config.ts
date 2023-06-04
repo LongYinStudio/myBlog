@@ -26,14 +26,40 @@ export default defineUserConfig({
         collapsible: true,
         children: [
           {
-            text: "HTML",
-            link: "/HTML/README.md",
+            text: "inputmode",
+            link: "/HTML/inputmode.md",
           },
         ],
       },
       {
         text: "CSS",
-        link: "/CSS",
+        collapsible: true,
+        children: [
+          {
+            text: "CSS",
+            link: "/CSS/README.md",
+          },
+        ],
+      },
+      {
+        text: "JavaScript",
+        collapsible: true,
+        children: [
+          {
+            text: "JS",
+            link: "/JS/README.md",
+          },
+        ],
+      },
+      {
+        text: "Vue",
+        collapsible: true,
+        children: [
+          {
+            text: "VUE",
+            link: "/VUE/README.md",
+          },
+        ],
       },
       {
         text: "IDE",
