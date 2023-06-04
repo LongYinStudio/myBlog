@@ -1,4 +1,9 @@
 import { defineUserConfig, defaultTheme } from "vuepress";
+import HTML from "./catalogue/HTML";
+import IDE from "./catalogue/IDE";
+import JS from "./catalogue/JS";
+import VUE from "./catalogue/VUE";
+import CSS from "./catalogue/CSS";
 
 export default defineUserConfig({
   lang: "zh-CN",
@@ -24,56 +29,27 @@ export default defineUserConfig({
       {
         text: "HTML",
         collapsible: true,
-        children: [
-          {
-            text: "inputmode",
-            link: "/HTML/inputmode.md",
-          },
-        ],
+        children: HTML,
       },
       {
         text: "CSS",
         collapsible: true,
-        children: [
-          {
-            text: "CSS",
-            link: "/CSS/README.md",
-          },
-        ],
+        children: CSS,
       },
       {
         text: "JavaScript",
         collapsible: true,
-        children: [
-          {
-            text: "JS",
-            link: "/JS/README.md",
-          },
-        ],
+        children: JS,
       },
       {
         text: "Vue",
         collapsible: true,
-        children: [
-          {
-            text: "VUE",
-            link: "/VUE/README.md",
-          },
-        ],
+        children: VUE,
       },
       {
         text: "IDE",
         collapsible: true,
-        children: [
-          {
-            text: "VScode",
-            link: "/IDE/VScode",
-          },
-          {
-            text: "IntellJ IDEA",
-            link: "/IDE/IDEA",
-          },
-        ],
+        children: IDE,
       },
     ],
   }),
