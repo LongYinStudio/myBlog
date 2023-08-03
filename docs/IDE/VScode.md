@@ -16,7 +16,7 @@
 
 7. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - 单词检写
 
-8. [CodeGeeX](https://marketplace.visualstudio.com/items?itemName=aminer.codegeex) - 国内 AI 助手
+8. [CodeGeeX](https://marketplace.visualstudio.com/items?itemName=aminer.codegeex) - 国内 AI 助手 (2 代插件名字和 1 代一样----热更新)
 
 9. [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - 颜色代码周围显示对应颜色
 
