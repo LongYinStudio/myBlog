@@ -1,6 +1,6 @@
 export default [
     {
-        text: "JS",
-        link: "/JS/README.md",
+        text: "平滑滚动",
+        link: "/JS/smooth-scroll.md",
     },
 ]

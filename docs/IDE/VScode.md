@@ -31,6 +31,7 @@
     - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) - 托管本地服务器的扩展程序，供您预览 Web 项目！
     - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - 实时服务器
     - [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) - 在浏览器打开文件
+
 26. [Minify](https://marketplace.visualstudio.com/items?itemName=HookyQR.minify) - 压缩 html/css/js
 27. [Mithril Emmet](https://marketplace.visualstudio.com/items?itemName=FallenMax.mithril-emmet) - Emmet（用于 HTML，CSS，JSX）是 VS Code 的内置功能。您不需要此扩展来使用它。 创建此扩展是为了允许使用 Emmet 编写 [mithril.js][mithril] 或其他 [hyperscript][hyperscript] 框架。
 28. [node-snippets](https://marketplace.visualstudio.com/items?itemName=FallenMax.mithril-emmet) - nodejs 代码片段
@@ -71,6 +72,7 @@
     - [Markdown TOC](https://marketplace.visualstudio.com/items?itemName=joffreykern.markdown-toc) - 生成 Markdown 目录
 
     - [Markdown Word Count](https://marketplace.visualstudio.com/items?itemName=CurlyBrackets.markdown-word-count) - Markdown 字数统计
+
 53. PHP 相关
 
     - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug) - PHP 调试
@@ -84,5 +86,6 @@
     - [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver) - PHP 服务器
 
     - [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php) - 格式化在 php 里的 html 代码
+
 54. [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - vim
-55. [Postcode]([Postcode - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode)) - vscode上的Postman
+55. [Postcode]([Postcode - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode)) - vscode 上的 Postman
