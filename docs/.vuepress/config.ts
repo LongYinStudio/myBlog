@@ -10,7 +10,7 @@ export default defineUserConfig({
   title: "LY blog",
   description: "这是我的第一个 VuePress 站点",
   theme: defaultTheme({
-    logo: "https://longyinstudio.cn/images/head.webp",
+    logo: "head.webp",
     navbar: [
       {
         text: "首页",
