@@ -89,3 +89,4 @@
 
 54. [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - vim
 55. [Postcode]([Postcode - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode)) - vscode 上的 Postman
+56. [Lightweight-Sedentary-Reminder ]([Lightweight-Sedentary-Reminder - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=LongYinStudio.lightweight-sedentary-reminder)) - 自己开发的轻量级久坐提醒
