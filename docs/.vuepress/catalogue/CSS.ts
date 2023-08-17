@@ -1,6 +1,6 @@
 export default [
   {
-    text: "CSS",
-    link: "/CSS/README.md",
+    text: "包含块",
+    link: "/CSS/containing-block.md",
   },
 ];
