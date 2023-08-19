@@ -45,22 +45,21 @@
 36. [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer) - ssh 文件管理
 37. [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg) - SVG 编辑插件
 38. [Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - 代码智能提示
-39. [Terminal SSH](https://marketplace.visualstudio.com/items?itemName=sailhenz.terminal-ssh) - 终端 ssh 工具
-40. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) - 快捷 log
-41. [Typings Installer](https://marketplace.visualstudio.com/items?itemName=benjaminromano.typings-installer) - 自动安装 Type Definitions（类型定义）文件
-42. Vue 相关
+39. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) - 快捷 log
+40. [Typings Installer](https://marketplace.visualstudio.com/items?itemName=benjaminromano.typings-installer) - 自动安装 Type Definitions（类型定义）文件
+41. Vue 相关
     - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - vue 文件:代码高亮/片段，Emmet，错误检查，格式化，代码提示
     - [Vue 3 Snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets) - vue3 代码片段
     - [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) - 功能上 volar 和 vetur 是一致的，都是针对 vue 的插件，但是 volar 的功能却要强大得多
-43. [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - 文件图标
-44. [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) - 方便使用 Windows Subsystem for Linux（WSL）来进行开发
-45. [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - XML 工具
-46. [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML/YML 工具
-47. [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - C/C++ 扩展编辑器
-48. [css-auto-prefix](https://marketplace.visualstudio.com/items?itemName=sporiley.css-auto-prefix) - 添加-webkit, -moz, -ms 等
-49. [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Docker 相关的
-50. [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) - Go 语言的开发
-51. Markdown 工具
+42. [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - 文件图标
+43. [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) - 方便使用 Windows Subsystem for Linux（WSL）来进行开发
+44. [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - XML 工具
+45. [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML/YML 工具
+46. [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - C/C++ 扩展编辑器
+47. [css-auto-prefix](https://marketplace.visualstudio.com/items?itemName=sporiley.css-auto-prefix) - 添加-webkit, -moz, -ms 等
+48. [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Docker 相关的
+49. [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) - Go 语言的开发
+50. Markdown 工具
 
     - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown 编辑器扩展
 
@@ -72,7 +71,7 @@
 
     - [Markdown Word Count](https://marketplace.visualstudio.com/items?itemName=CurlyBrackets.markdown-word-count) - Markdown 字数统计
 
-52. PHP 相关
+51. PHP 相关
 
     - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug) - PHP 调试
 
@@ -86,6 +85,6 @@
 
     - [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php) - 格式化在 php 里的 html 代码
 
-53. [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - vim
-54. [Postcode]([Postcode - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode)) - vscode 上的 Postman
-55. [Lightweight-Sedentary-Reminder ]([Lightweight-Sedentary-Reminder - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=LongYinStudio.lightweight-sedentary-reminder)) - 自己开发的轻量级久坐提醒
+52. [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - vim
+53. [Postcode]([Postcode - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode)) - vscode 上的 Postman
+54. [Lightweight-Sedentary-Reminder ]([Lightweight-Sedentary-Reminder - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=LongYinStudio.lightweight-sedentary-reminder)) - 自己开发的轻量级久坐提醒
