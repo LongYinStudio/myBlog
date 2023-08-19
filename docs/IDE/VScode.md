@@ -25,41 +25,40 @@
 21. [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - 提示 CSS 类名
 22. [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - ES6 代码片段
 23. [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets) - jQuery 代码片段
-24. [jslint](https://marketplace.visualstudio.com/items?itemName=ajhyndman.jslint) - 将 JSLint 集成到 VS Code 中
-25. 运行网站
+24. 运行网站
 
     - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) - 托管本地服务器的扩展程序，供您预览 Web 项目！
     - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - 实时服务器
     - [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) - 在浏览器打开文件
 
-26. [Minify](https://marketplace.visualstudio.com/items?itemName=HookyQR.minify) - 压缩 html/css/js
-27. [Mithril Emmet](https://marketplace.visualstudio.com/items?itemName=FallenMax.mithril-emmet) - Emmet（用于 HTML，CSS，JSX）是 VS Code 的内置功能。您不需要此扩展来使用它。 创建此扩展是为了允许使用 Emmet 编写 [mithril.js][mithril] 或其他 [hyperscript][hyperscript] 框架。
-28. [node-snippets](https://marketplace.visualstudio.com/items?itemName=FallenMax.mithril-emmet) - nodejs 代码片段
-29. [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - npm 库补全
-30. [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) - 最好用的主题 onedark
-31. [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - 文件路径提示
-32. [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - 代码格式化
-33. [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - js 调试工具
-34. [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - ssh 连接
-35. [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
-36. [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer) - ssh 文件管理
-37. [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg) - SVG 编辑插件
-38. [Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - 代码智能提示
-39. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) - 快捷 log
-40. [Typings Installer](https://marketplace.visualstudio.com/items?itemName=benjaminromano.typings-installer) - 自动安装 Type Definitions（类型定义）文件
-41. Vue 相关
+25. [Minify](https://marketplace.visualstudio.com/items?itemName=HookyQR.minify) - 压缩 html/css/js
+26. [Mithril Emmet](https://marketplace.visualstudio.com/items?itemName=FallenMax.mithril-emmet) - Emmet（用于 HTML，CSS，JSX）是 VS Code 的内置功能。您不需要此扩展来使用它。 创建此扩展是为了允许使用 Emmet 编写 [mithril.js][mithril] 或其他 [hyperscript][hyperscript] 框架。
+27. [node-snippets](https://marketplace.visualstudio.com/items?itemName=FallenMax.mithril-emmet) - nodejs 代码片段
+28. [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - npm 库补全
+29. [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) - 最好用的主题 onedark
+30. [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - 文件路径提示
+31. [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - 代码格式化
+32. [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - js 调试工具
+33. [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - ssh 连接
+34. [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
+35. [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer) - ssh 文件管理
+36. [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg) - SVG 编辑插件
+37. [Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - 代码智能提示
+38. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) - 快捷 log
+39. [Typings Installer](https://marketplace.visualstudio.com/items?itemName=benjaminromano.typings-installer) - 自动安装 Type Definitions（类型定义）文件
+40. Vue 相关
     - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - vue 文件:代码高亮/片段，Emmet，错误检查，格式化，代码提示
     - [Vue 3 Snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets) - vue3 代码片段
     - [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) - 功能上 volar 和 vetur 是一致的，都是针对 vue 的插件，但是 volar 的功能却要强大得多
-42. [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - 文件图标
-43. [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) - 方便使用 Windows Subsystem for Linux（WSL）来进行开发
-44. [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - XML 工具
-45. [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML/YML 工具
-46. [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - C/C++ 扩展编辑器
-47. [css-auto-prefix](https://marketplace.visualstudio.com/items?itemName=sporiley.css-auto-prefix) - 添加-webkit, -moz, -ms 等
-48. [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Docker 相关的
-49. [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) - Go 语言的开发
-50. Markdown 工具
+41. [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) - 文件图标
+42. [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) - 方便使用 Windows Subsystem for Linux（WSL）来进行开发
+43. [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - XML 工具
+44. [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML/YML 工具
+45. [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - C/C++ 扩展编辑器
+46. [css-auto-prefix](https://marketplace.visualstudio.com/items?itemName=sporiley.css-auto-prefix) - 添加-webkit, -moz, -ms 等
+47. [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) - Docker 相关的
+48. [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) - Go 语言的开发
+49. Markdown 工具
 
     - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown 编辑器扩展
 
@@ -71,7 +70,7 @@
 
     - [Markdown Word Count](https://marketplace.visualstudio.com/items?itemName=CurlyBrackets.markdown-word-count) - Markdown 字数统计
 
-51. PHP 相关
+50. PHP 相关
 
     - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug) - PHP 调试
 
@@ -85,6 +84,6 @@
 
     - [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php) - 格式化在 php 里的 html 代码
 
-52. [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - vim
-53. [Postcode]([Postcode - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode)) - vscode 上的 Postman
-54. [Lightweight-Sedentary-Reminder ]([Lightweight-Sedentary-Reminder - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=LongYinStudio.lightweight-sedentary-reminder)) - 自己开发的轻量级久坐提醒
+51. [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - vim
+52. [Postcode]([Postcode - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode)) - vscode 上的 Postman
+53. [Lightweight-Sedentary-Reminder ]([Lightweight-Sedentary-Reminder - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=LongYinStudio.lightweight-sedentary-reminder)) - 自己开发的轻量级久坐提醒
