@@ -99,6 +99,14 @@
 
 > 在写项目时，vscode 的资源管理器中，文件特别多，但有些文件不是经常使用的，我们可以在 settings.json 文件声明将文件编成一组。
 
+- 配置后效果
+  - 展开：
+    ![效果](/vscode/vscode-nest.jpg)
+  - 合上：
+    ![效果](/vscode/vscode-nest2.jpg)
+
+::: details 点击查看代码
+
 ```json
   // nest start (配置文件合成文件夹)
   "explorer.fileNesting.enabled": true,
@@ -179,3 +187,5 @@
     "vue.config.*": "*.env, .babelrc*, .codecov, .cssnanorc*, .env.*, .envrc, .htmlnanorc*, .lighthouserc.*, .mocha*, .postcssrc*, .terserrc*, api-extractor.json, ava.config.*, babel.config.*, contentlayer.config.*, cssnano.config.*, cypress.*, env.d.ts, formkit.config.*, formulate.config.*, histoire.config.*, htmlnanorc.*, jasmine.*, jest.config.*, jsconfig.*, karma*, lighthouserc.*, playwright.config.*, postcss.config.*, puppeteer.config.*, rspack.config.*, svgo.config.*, tailwind.config.*, tsconfig.*, tsdoc.*, uno.config.*, unocss.config.*, vitest.config.*, webpack.config.*, windi.config.*"
   }, // nest end
 ```
+
+:::
