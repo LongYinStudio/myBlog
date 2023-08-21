@@ -9,6 +9,7 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: "LY blog",
   description: "这是我的第一个 VuePress 站点",
+  head: [["link", { rel: "stylesheet", href: "/styles/index.scss" }]],
   theme: defaultTheme({
     logo: "head.webp",
     navbar: [
