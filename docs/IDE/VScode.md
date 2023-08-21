@@ -85,5 +85,8 @@
     - [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php) - 格式化在 php 里的 html 代码
 
 51. [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - vim
-52. [Postcode]([Postcode - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode)) - vscode 上的 Postman
-53. [Lightweight-Sedentary-Reminder ]([Lightweight-Sedentary-Reminder - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=LongYinStudio.lightweight-sedentary-reminder)) - 自己开发的轻量级久坐提醒
+52. [Postcode](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode) - vscode 上的 Postman
+53. [Lightweight-Sedentary-Reminder ](https://marketplace.visualstudio.com/items?itemName=LongYinStudio.lightweight-sedentary-reminder) - 自己开发的轻量级久坐提醒
+54. 正则表达式
+    - [any-rule](https://marketplace.visualstudio.com/items?itemName=russell.any-rule) - 内含丰富正则表达式，粘贴后可选择跳转网站，图解粘贴的表达式
+    - [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - 正则表达式测试
