@@ -1,4 +1,5 @@
 import { defineUserConfig, defaultTheme } from "vuepress";
+import navbar from "./navbar";
 import HTML from "./catalogue/HTML";
 import IDE from "./catalogue/IDE";
 import JS from "./catalogue/JS";
@@ -12,20 +13,7 @@ export default defineUserConfig({
   head: [["link", { rel: "stylesheet", href: "/styles/index.scss" }]],
   theme: defaultTheme({
     logo: "head.webp",
-    navbar: [
-      {
-        text: "首页",
-        link: "/",
-      },
-      {
-        text: "龙吟工作室",
-        link: "https://longyinstudio.cn/",
-      },
-      {
-        text: "Github",
-        link: "https://github.com/LongYinStudio",
-      },
-    ],
+    navbar,
     sidebar: [
       {
         text: "HTML",
