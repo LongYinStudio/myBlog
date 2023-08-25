@@ -4,7 +4,7 @@ export default [
     link: "/IDE/VScode",
   },
   {
-    text: "IntellJ IDEA",
+    text: "IntelliJ IDEA",
     link: "/IDE/IDEA",
   },
 ];
