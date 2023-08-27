@@ -97,6 +97,7 @@
     - [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - 正则表达式测试
 
 55. [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - ErrorLens 通过使诊断更加突出来增强语言诊断功能，突出显示 整行，只要诊断由语言生成，并且还内联打印消息。
+56. [Parameter Hints](https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints) - 参数提示
 
 ## 文件整理
 
