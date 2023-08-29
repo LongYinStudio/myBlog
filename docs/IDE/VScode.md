@@ -70,8 +70,6 @@
 
     - [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) - Markdown files to pdf, html, png or jpeg files
 
-    - [Markdown TOC](https://marketplace.visualstudio.com/items?itemName=joffreykern.markdown-toc) - 生成 Markdown 目录
-
     - [Markdown Word Count](https://marketplace.visualstudio.com/items?itemName=CurlyBrackets.markdown-word-count) - Markdown 字数统计
 
 50. PHP 相关
