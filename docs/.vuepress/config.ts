@@ -7,12 +7,16 @@ import CSS from "./catalogue/CSS";
 
 export default defineUserConfig({
   lang: "zh-CN",
-  title: "LY blog",
+  title: "龙吟博客",
   description: "这是我的第一个 VuePress 站点",
   head: [["link", { rel: "stylesheet", href: "/styles/index.scss" }]],
   theme: defaultTheme({
     logo: "head.webp",
     navbar: [
+      {
+        text: "首页",
+        link: "/",
+      },
       {
         text: "HTML",
         children: HTML,

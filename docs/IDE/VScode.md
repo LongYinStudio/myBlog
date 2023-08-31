@@ -109,6 +109,8 @@
 
 ![效果](/vscode/vscode-nest2.jpg)
 
+### 配置代码
+
 ::: details 点击查看代码
 
 ```json
