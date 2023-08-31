@@ -97,6 +97,7 @@
 55. [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - ErrorLens 通过使诊断更加突出来增强语言诊断功能，突出显示 整行，只要诊断由语言生成，并且还内联打印消息。
 56. [Parameter Hints](https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints) - 参数提示
 57. [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - 显示（使用 ripgrep）工作区中的注释标记（如 TODO 和 FIXME）
+58. [filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize) - 显示当前文件大小
 
 ## 文件整理
 
