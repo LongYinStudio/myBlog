@@ -13,11 +13,23 @@
         text-align: center;
         color: #888;
     }
+    .my_links > * {
+        padding:10px;
+    }
 </style>
 
 <div class="my_title">龙吟工作室 - 博客</div>
 <div class="my_subtitle">欢迎来到龙吟工作室</div>
 
+## 联系方式
+
+:::tip contact
+QQ：1606776851 &
+WeChat：JAVA1606776851
+:::
+
 ## 友联
 
-- [棒棒糖](https://www.lollipoppp.com)
+<div class="my_links">
+  <a href="https://www.lollipoppp.com">棒棒糖</a>
+</div>
