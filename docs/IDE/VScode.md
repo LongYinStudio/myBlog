@@ -195,3 +195,58 @@
 ```
 
 :::
+
+## exclude 排除
+
+1. intelephense.files.exclude: 这个配置项是用于 IntelliSense 扩展 Intelephense。它允许你指定要排除的文件和文件夹，以便在代码智能提示和补全时不考虑它们。这可以帮助提高代码编辑的效率。
+
+2. files.exclude: 这个配置项用于在文件资源管理器中排除特定的文件和文件夹的显示。你可以指定哪些文件和文件夹不会在文件资源管理器中显示出来，从而使视图更加整洁。这对于隐藏一些临时文件、生成的文件或者不需要直接编辑的文件很有用。
+
+3. files.watcherExclude: 这个配置项用于指定哪些文件和文件夹在文件监视器中被排除在外，即不会触发相应的变化事件。这对于避免某些不必要的文件变化事件的触发很有用，尤其是在处理大型项目时，减少了需要进行的处理和资源消耗。
+
+4. search.exclude: 这个配置项用于在搜索功能中排除特定的文件和文件夹。你可以指定哪些文件和文件夹不会在搜索结果中显示出来，从而缩小搜索范围，提高搜索效率。这对于排除一些临时文件、测试文件或者第三方库文件很有用。
+
+### 配置代码
+
+::: details 点击查看代码
+
+```json
+  // exlude
+  "intelephense.files.exclude": [
+    "**/.git/**",
+    "**/.svn/**",
+    "**/.hg/**",
+    "**/CVS/**",
+    "**/.DS_Store/**",
+    "**/node_modules/**",
+    "**/bower_components/**",
+    "**/vendor/**/{Tests,tests}/**",
+    "**/.history/**",
+    "**/vendor/**/vendor/**",
+    "**/dist/**"
+  ],
+  "files.exclude": {
+    "*.code-workspace": true,
+    "**/dist": true,
+    "**/node_modules": true,
+    "**/public/js/app.js": true,
+    "**/unpackage": true,
+    "**/vendor.js": true,
+    ".github": true,
+    ".vscode": true
+  },
+  "files.watcherExclude": {
+    "**/dist/**": true,
+    "**/node_modules/**": true,
+    "**/node_modules/*/**": false,
+    "**/vendor/**": true
+  },
+  "search.exclude": {
+    "*.code-workspace": true,
+    "**/dist": true,
+    "**/vendor": true,
+    "**/node_modules": true
+  } //exclude end
+```
+
+:::
