@@ -8,7 +8,7 @@ import CSS from "./catalogue/CSS";
 export default defineUserConfig({
   lang: "zh-CN",
   title: "龙吟博客",
-  description: "这是我的第一个 VuePress 站点",
+  description: "个人技术博客",
   head: [["link", { rel: "stylesheet", href: "/styles/index.scss" }]],
   theme: defaultTheme({
     logo: "head.webp",
