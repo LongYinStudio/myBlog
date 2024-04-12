@@ -4,6 +4,7 @@ import IDE from "./catalogue/IDE";
 import JS from "./catalogue/JS";
 import VUE from "./catalogue/VUE";
 import CSS from "./catalogue/CSS";
+import OTHERS from "./catalogue/OTHERS";
 
 export default defineUserConfig({
   lang: "zh-CN",
@@ -36,6 +37,10 @@ export default defineUserConfig({
       {
         text: "IDE",
         children: IDE,
+      },
+      {
+        text: "其他",
+        children: OTHERS,
       },
       {
         text: "龙吟工作室",
