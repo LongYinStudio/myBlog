@@ -4,6 +4,7 @@ import IDE from "./catalogue/IDE";
 import JS from "./catalogue/JS";
 import VUE from "./catalogue/VUE";
 import CSS from "./catalogue/CSS";
+import LINUX from "./catalogue/LINUX";
 import OTHERS from "./catalogue/OTHERS";
 
 export default defineUserConfig({
@@ -37,6 +38,10 @@ export default defineUserConfig({
       {
         text: "IDE",
         children: IDE,
+      },
+      {
+        text: "Linux",
+        children: LINUX,
       },
       {
         text: "其他",
