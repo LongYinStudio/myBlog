@@ -5,6 +5,7 @@ import JS from "./catalogue/JS";
 import VUE from "./catalogue/VUE";
 import CSS from "./catalogue/CSS";
 import LINUX from "./catalogue/LINUX";
+import BOARD from "./catalogue/BOARD";
 import OTHERS from "./catalogue/OTHERS";
 
 export default defineUserConfig({
@@ -42,6 +43,10 @@ export default defineUserConfig({
       {
         text: "Linux",
         children: LINUX,
+      },
+      {
+        text: "开发板",
+        children: BOARD,
       },
       {
         text: "其他",

@@ -3,3 +3,6 @@ node_modules
 .cache
 dist
 .vscode
+*.zip
+*.tar
+*.tar.gz
