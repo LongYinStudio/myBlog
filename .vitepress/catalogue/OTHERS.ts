@@ -7,4 +7,8 @@ export default [
     text: "oracle数据库(podman)",
     link: "/OTHERS/oracledb.md",
   },
+  {
+    text: "git message type",
+    link: "/OTHERS/gitMsg.md",
+  },
 ];

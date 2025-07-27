@@ -6,3 +6,4 @@ dist
 *.zip
 *.tar
 *.tar.gz
+.vitepress/cache
